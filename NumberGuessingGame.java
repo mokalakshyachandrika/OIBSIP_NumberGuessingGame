@@ -70,7 +70,7 @@ public class NumberGuessingGame {
      System.out.println("Thanks for playing !");
      System.out.println("Total Score: "+totalScore);
      input.close();
-     
+     // Contribution test by manovignesh538
     }
 }
     
